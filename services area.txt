@@ -1,0 +1,102 @@
+
+
+
+services area
+
+<div class="services-area section-padding" id="services">
+    <div class="container">
+        <div class="row">
+            <div class="section-title">
+                <h2>My <span>Services</span></h2>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-4 col-sm-6 service">
+                <div class="service-box">
+                    <span class="after"></span>
+                    <span class="before"></span>
+                    <div class="service-icon">
+                        <i class="icon-compass"></i>
+                    </div>
+
+                    <div class="service-content">
+                        <h4>Web Design</h4>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut, id laboriosam maxime nam neque nulla placeat quam repudiandae similique ullam?</p>
+                    </div>
+                </div>
+
+            </div>
+            <div class="col-md-4 col-sm-6 service">
+                <div class="service-box">
+                    <span class="after"></span>
+                    <span class="before"></span>
+                    <div class="service-icon">
+                        <i class="icon-aperture"></i>
+                    </div>
+                    <div class="service-content">
+                        <h4>Web Development</h4>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut, id laboriosam maxime nam neque nulla placeat quam repudiandae similique ullam?</p>
+                    </div>
+                </div>
+
+            </div>
+            <div class="col-md-4 col-sm-6 service">
+                <div class="service-box">
+                    <span class="after"></span>
+                    <span class="before"></span>
+                    <div class="service-icon">
+                        <i class="icon-gears"></i>
+                    </div>
+                    <div class="service-content">
+                        <h4>Email Marketing</h4>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut, id laboriosam maxime nam neque nulla placeat quam repudiandae similique ullam?</p>
+                    </div>
+                </div>
+
+            </div>
+            <div class="col-md-4 col-sm-6 service">
+                <div class="service-box">
+                    <span class="after"></span>
+                    <span class="before"></span>
+                    <div class="service-icon">
+                        <i class="icon-bargraph"></i>
+                    </div>
+                    <div class="service-content">
+                        <h4>Graphics Design</h4>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut, id laboriosam maxime nam neque nulla placeat quam repudiandae similique ullam?</p>
+                    </div>
+                </div>
+
+            </div>
+            <div class="col-md-4 col-sm-6 service">
+                <div class="service-box">
+                    <span class="after"></span>
+                    <span class="before"></span>
+                    <div class="service-icon">
+                        <i class="icon-adjustments"></i>
+                    </div>
+                    <div class="service-content">
+                        <h4>Photography</h4>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut, id laboriosam maxime nam neque nulla placeat quam repudiandae similique ullam?</p>
+                    </div>
+                </div>
+
+            </div>
+            <div class="col-md-4 col-sm-6 service">
+                <div class="service-box">
+                    <span class="after"></span>
+                    <span class="before"></span>
+                    <div class="service-icon">
+                        <i class="icon-browser"></i>
+                    </div>
+                    <div class="service-content">
+                        <h4>App Development</h4>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut, id laboriosam maxime nam neque nulla placeat quam repudiandae similique ullam?</p>
+                    </div>
+                </div>
+
+            </div>
+
+        </div>
+    </div>
+</div>
